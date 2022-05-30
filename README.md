@@ -1,4 +1,4 @@
 # ForumeBuySell
-# ForumeBuySell
-# ForumeBuySell
-# ForumeBuySell
+
+.sql - файлы содержат код создание таблиц, триггеров, процедур, а также оптимизацию запросов
+ForumeBuySell.jpg - схема базы данных
